@@ -1,6 +1,0 @@
-streamlit
-pandas
-matplotlib
-numpy
-google-generativeai
-bcrypt
